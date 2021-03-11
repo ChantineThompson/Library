@@ -14,7 +14,7 @@ import java.util.stream.Collectors;
  *
  */
 
-public class Library{
+public class Library {
 	/**
 	 * 
 	 * @param file Takes in the file selected in main
