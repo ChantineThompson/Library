@@ -2,7 +2,9 @@
 This library was created to compute statistics based on an inputted text file. It computes the number of words, number of lines, average letters per word and the most common letter.
 
 ### Build and Run
-This Git includes the whole project. To just download the library .jar, it can be found in Library/lib/build/libs. 
+This Git includes the whole project. To just download library.jar, it can be found in Library/lib/build/libs. The java program itself can be found in Library/lib/src/main/java/Library.
+
+<b> To use the library in your own project: </b>
 
 Make sure the .jar file is located in the class path of the java project you want to implement this in.
 
